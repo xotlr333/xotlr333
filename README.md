@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=KONG%20TAE%20SIC%20&fontAlign=35&fontAlignY=40&color=gradient">
+</p>  
+
 <h3 align="center"> Hi there 👋 </h3>
 
 <p align="center">
@@ -29,5 +33,4 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xotlr333&layout=compact" />
 </p>
-
   
